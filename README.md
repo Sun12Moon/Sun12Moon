@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Shreyash MM
 
+🎓 **Student** at Marathwada Mitra Mandal's College of Engineering, Pune  
+💻 **Member** of IT Tech Club, MMCOE  
+📍 Pune, Maharashtra, India  
 
-**Sun12Moon/Sun12Moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- **Programming & Tools:** MATLAB, C++, CSS  
+- **Languages:** English (Full Professional), Hindi (Full Professional), Marathi (Full Professional)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 📜 Certifications
+- MATLAB ONRAMP
+
+---
+
+## 🌱 Current Focus
+- Learning and building projects in **C++** and **MATLAB**
+- Expanding my skills in **web development**
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: [newshreyashjourney@gmail.com](mailto:newshreyashjourney@gmail.com)  
+- 🔗 LinkedIn: [Shreyash MM](https://www.linkedin.com/in/shreyash-mm-8a3a59328)
+
+---
+
+⭐️ *"Always learning, always building."*
