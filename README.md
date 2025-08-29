@@ -24,7 +24,7 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: [newshreyashjourney@gmail.com](mailto:newshreyashjourney@gmail.com)  
+- 📧 Email: [shreyashmandlapure2024.it@mmcoe.edu.in](mailto:shreyashmandlapure2024.it@mmcoe.edu.in)  
 - 🔗 LinkedIn: [Shreyash MM](https://www.linkedin.com/in/shreyash-mm-8a3a59328)
 
 ---
